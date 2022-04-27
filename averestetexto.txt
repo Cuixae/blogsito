@@ -2,4 +2,4 @@ Hagamos una historia...
 
 Había una vez un gato que le gustaba pasar sus patas por el teclado de un developer.
 
-Este gato se llama Elif True.
+Este gato se llama Elif True y es de color naranja.
